@@ -1,0 +1,16 @@
+.pagination{
+	float: right;
+}
+.btn-add{
+	float: right;
+}
+h2{
+	font-size: 20px;
+	margin-top: 40px;
+	font-weight: 500;
+	text-transform: uppercase;
+}
+
+.container-inputs{
+	margin: 10px 0 10px 0;
+}
